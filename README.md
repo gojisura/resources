@@ -38,3 +38,14 @@
   </a>
 </p>
 - You can change the style of the widget.
+
+## README TYPING SVG
+- https://readme-typing-svg.herokuapp.com/demo/?font=DotGothic16&size=17&pause=500&color=38D3E8&center=true&vCenter=true&multiline=true
+- Example:<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=17&pause=500&color=38D3E8&center=true&vCenter=true&multiline=true&width=435&lines=ALL+HAIL+THE+KING" alt="Typing SVG" /></a>
+
+## BADGES
+- https://shields.io/badges
+- Example:<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/hello-world-blue">
+
